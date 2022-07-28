@@ -4,7 +4,7 @@
 
 - nginx como proxy reverso para a aplicação node.js usando mYsql para persistir os dados, sendo um container para cada.
 
-- Ao acessar o nginx, a aplicação node será chamada que então irá salvar um nome aleatório (gerado em cada nova requisição GET) no banco de dados MySQL (nodedb), retornando todos os nomes salvos para serem listados na página.
+- Ao acessar o nginx, a aplicação node será chamada que então irá salvar um nome aleatório (gerado a cada nova requisição GET) no banco de dados MySQL (nodedb), retornando todos os nomes salvos para serem listados na página.
 
 ![image](https://user-images.githubusercontent.com/31414164/181399016-ca69ee49-f2b4-4b68-9a3b-b9704c0d64da.png)
 
