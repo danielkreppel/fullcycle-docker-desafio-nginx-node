@@ -13,7 +13,7 @@
 
 - sudo docker-compose up --build -d
 
-![image](https://user-images.githubusercontent.com/31414164/181396162-7264bedc-c8c4-4335-a101-ac204940b7fd.png)
+![image](https://user-images.githubusercontent.com/31414164/181399109-b3f611cd-bd85-46cc-b802-eb2b16d08cda.png)
 
 - docker ps
 
