@@ -2,11 +2,9 @@ FROM node
 
 WORKDIR /usr/src/app
 
-COPY package*.json ./
+COPY . .
 
 RUN npm i
-
-COPY . .
 
 EXPOSE 3000
 
